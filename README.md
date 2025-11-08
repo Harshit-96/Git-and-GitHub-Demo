@@ -1,3 +1,3 @@
 This is my first Git repo. 
 <br>
-Author - Harshit rai
+Author - Harshit rai (student)
